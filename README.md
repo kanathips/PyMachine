@@ -5,3 +5,5 @@
 * `numpy`
 * `pandas`
 * `jupyter`
+* `tensorflow`
+* `opencv`
